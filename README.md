@@ -7,7 +7,7 @@ This project contains a script that generates random data using the [Random Data
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/random-data-azure-uploader.git
+    git clone https://github.com/ismaHenzel/gen-random-data-azure-blob-storage
     cd random-data-azure-uploader
     ```
 
